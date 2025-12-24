@@ -14,11 +14,7 @@ The tests cover the Microservice API for managing advertisements.
 *   `pip` (Python package installer).
 
 ## Installation
-1.  Navigate to the project directory:
-    ```bash
-    cd d:\sergo\antigravity\Avito_QA_Task
-    ```
-2.  Install the required dependencies:
+1.  Install the required dependencies:
     ```bash
     pip install pytest requests
     ```
